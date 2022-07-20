@@ -15,7 +15,8 @@
     {
       "name": "app.services.seller-service.port",
       "type": "java.lang.Integer",
-      "sourceType": "com.eauction.buyer.config.SellerServiceConfig"
+      "sourceType": "com.eauction.buyer.config.SellerServiceConfig",
+      "defaultValue": -1
     },
     {
       "name": "app.services.seller-service.product-search",
